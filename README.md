@@ -1,11 +1,11 @@
-# Forja
+# SVC
 > Esta práctica tiene como objetivo aprender a manejar con soltura Git - Github.
 > ##### [Máster en Ingeniería Web por la Universidad Politécnica de Madrid (miw-upm)](http://miw.etsisi.upm.es)
 > ##### Asignatura: *Ingeniería Web: Visión General*
 
 ### Estado del código
 
-[![Build Status](https://travis-ci.org/tomas-teston/tomas.munoz.SVC.miw.upm.es.svg?branch=develop)](https://travis-ci.org/tomas-teston/tomas.munoz.SVC.miw.upm.es)
+[![Build Status](https://travis-ci.org/tomas-teston/tomas.munoz.SVC.miw.upm.es.svg?branch=master)](https://travis-ci.org/tomas-teston/tomas.munoz.SVC.miw.upm.es)
 
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw:tomas.munoz.SVC.miw.upm.es&metric=alert_status)
 
